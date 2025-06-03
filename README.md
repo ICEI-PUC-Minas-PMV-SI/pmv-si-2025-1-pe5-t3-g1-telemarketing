@@ -1,9 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3UmC-h03)
 ## <p align="center"> Curso: Sistemas de Informação | Disciplina: Projeto de Infraestrutura de Redes | Eixo 5 </p>
-&nbsp;
-&nbsp;
 # <p align="center">**CallNet Solutions**</p>
-
 <p align="center">
 <img src="docs/image/logo.jpg" alt="Logo" width="1000" height="500">
 </p>
@@ -21,12 +18,9 @@
 * Shirley Luana Ramos de Assis
 &nbsp;
 
-
 ---
-
 &nbsp;
-
-&nbsp;
+## Ata das Reuniões
 ### Etapa 1
 &nbsp;&nbsp;&nbsp;&nbsp;1. Planejamento do projeto de uma infraestrutura de redes;
 
@@ -69,3 +63,12 @@ Realizamos, de forma colaborativa, a implementação dos componentes de infraest
 &nbsp;&nbsp;&nbsp;&nbsp;4. Virtualização e monitoramentodo servidor e clientes Zabbix local e nuvem, monitoramento dos serviços;
 
 Realizamos, de forma colaborativa, o planejamos e implementamos uma infraestrutura híbrida (on-premise + nuvem) para o telemarketing, provisionando instâncias na AWS, configurando CI/CD e estabelecendo políticas de segurança. Instalamos também e configuramos o Zabbix local e em nuvem para monitorar servidores e serviços, com dashboards e alertas para garantir alta disponibilidade.
+
+### Etapa 4
+&nbsp;&nbsp;&nbsp;&nbsp;1. Definição das políticas de segurança da informação em conformidade com a natureza da organização de telemarketing;
+
+&nbsp;&nbsp;&nbsp;&nbsp;2. Rastreamento de possíveis vulnerabilidades por meio de ferramentas de exploração de vulnerabilidades e possíveis soluções de atenuação;
+
+&nbsp;&nbsp;&nbsp;&nbsp;3. Folder da PSI;
+
+Realizamos, de forma colaborativa, a definição de políticas de segurança da informação adaptadas ao ambiente de telemarketing, rastreando vulnerabilidades com ferramentas especializadas e propondo medidas de atenuação e também, elaboramos um folder da PSI para comunicar diretrizes, responsabilidades e procedimentos de segurança a toda a equipe.
