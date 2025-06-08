@@ -36,7 +36,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;7. Articulação em equipes de trabalho: demonstrar capacidade de comunicação e colaboração em um processo de planejamento e implantação de projeto de infraestrutura de rede.
 
-Realizamos, de forma colaborativa, o planejamento e a prototipação inicial da infraestrutura de redes, contemplando aspectos como escalabilidade e desempenho, além de definirmos cenários de testes, topologias propostas e estimativas de recursos necessários para cada etapa do projeto.
+Realizamos, de forma colaborativa (exceto Carlos Alberto Morais Junior), o planejamento e a prototipação inicial da infraestrutura de redes, contemplando aspectos como escalabilidade e desempenho, além de definirmos cenários de testes, topologias propostas e estimativas de recursos necessários para cada etapa do projeto.
 
 ### Etapa 2
 &nbsp;&nbsp;&nbsp;&nbsp;1. Criação da planilha de recursos de rede;
@@ -51,7 +51,7 @@ Realizamos, de forma colaborativa, o planejamento e a prototipação inicial da 
 
 &nbsp;&nbsp;&nbsp;&nbsp;6. Comunicação e colaboração em um processo de planejamento e implantação de projeto de infraestrutura de rede;
 
-Realizamos, de forma colaborativa, a implementação dos componentes de infraestrutura em nuvem e complementar a documentação iniciada na Etapa 2.
+Realizamos, de forma colaborativa (exceto Carlos Alberto Morais Junior), a implementação dos componentes de infraestrutura em nuvem e complementar a documentação iniciada na Etapa 2.
 
 ### Etapa 3
 &nbsp;&nbsp;&nbsp;&nbsp;1. Planejamento de uma infraestrutura de redes para uma organização de telemarketing;
@@ -62,7 +62,7 @@ Realizamos, de forma colaborativa, a implementação dos componentes de infraest
 
 &nbsp;&nbsp;&nbsp;&nbsp;4. Virtualização e monitoramentodo servidor e clientes Zabbix local e nuvem, monitoramento dos serviços;
 
-Realizamos, de forma colaborativa, o planejamos e implementamos uma infraestrutura híbrida (on-premise + nuvem) para o telemarketing, provisionando instâncias na AWS, configurando CI/CD e estabelecendo políticas de segurança. Instalamos também e configuramos o Zabbix local e em nuvem para monitorar servidores e serviços, com dashboards e alertas para garantir alta disponibilidade.
+Realizamos, de forma colaborativa (exceto Carlos Alberto Morais Junior), o planejamos e implementamos uma infraestrutura híbrida (on-premise + nuvem) para o telemarketing, provisionando instâncias na AWS, configurando CI/CD e estabelecendo políticas de segurança. Instalamos também e configuramos o Zabbix local e em nuvem para monitorar servidores e serviços, com dashboards e alertas para garantir alta disponibilidade.
 
 ### Etapa 4
 &nbsp;&nbsp;&nbsp;&nbsp;1. Definição das políticas de segurança da informação em conformidade com a natureza da organização de telemarketing;
@@ -71,4 +71,4 @@ Realizamos, de forma colaborativa, o planejamos e implementamos uma infraestrutu
 
 &nbsp;&nbsp;&nbsp;&nbsp;3. Folder da PSI;
 
-Realizamos, de forma colaborativa, a definição de políticas de segurança da informação adaptadas ao ambiente de telemarketing, rastreando vulnerabilidades com ferramentas especializadas e propondo medidas de atenuação e também, elaboramos um folder da PSI para comunicar diretrizes, responsabilidades e procedimentos de segurança a toda a equipe.
+Realizamos, de forma colaborativa (exceto Carlos Alberto Morais Junior), a definição de políticas de segurança da informação adaptadas ao ambiente de telemarketing, rastreando vulnerabilidades com ferramentas especializadas e propondo medidas de atenuação e também, elaboramos um folder da PSI para comunicar diretrizes, responsabilidades e procedimentos de segurança a toda a equipe.
