@@ -72,3 +72,10 @@ Realizamos, de forma colaborativa (exceto Carlos Alberto Morais Junior), o plane
 &nbsp;&nbsp;&nbsp;&nbsp;3. Folder da PSI;
 
 Realizamos, de forma colaborativa (exceto Carlos Alberto Morais Junior), a definição de políticas de segurança da informação adaptadas ao ambiente de telemarketing, rastreando vulnerabilidades com ferramentas especializadas e propondo medidas de atenuação e também, elaboramos um folder da PSI para comunicar diretrizes, responsabilidades e procedimentos de segurança a toda a equipe.
+
+### Etapa 5
+&nbsp;&nbsp;&nbsp;&nbsp;1. Documento do Relatório Final em Formato de Artigo Acadêmico segundo as regras de normalização da PUC Minas conforme template disponibilizado no material de Apoio;
+
+&nbsp;&nbsp;&nbsp;&nbsp;2. Slides objetivos com sua qualidade observada conforme trabalhados anteriormente apresentados no curso.
+
+Realizamos, de forma colaborativa (exceto Carlos Alberto Morais Junior), o documento do Relatório Final em Formato de Artigo Acadêmico segundo as regras de normalização da PUC Minas conforme template disponibilizado no material de Apoio e os slides objetivos com sua qualidade observada conforme trabalhados anteriormente apresentados no curso.
